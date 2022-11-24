@@ -1,14 +1,10 @@
-# Vendor Management System
-
-Python language bindings for Selenium WebDriver.
-The selenium package is used to automate web browser interaction from Python.
+# Privy Chat
 
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
 - [Download Visual Studio Code](https://code.visualstudio.com/download)
 - [Download Python Supported Versions 3.10.6](https://www.python.org/downloads/release/python-3106/) (Add Python to the PATH Environmental Variable)
-- [Download Chromedriver According to Chrome Version](https://chromedriver.chromium.org/downloads) (Add Chromedriver to the PATH Environmental Variable)
 
 ## Installing from CMD (Command Prompt)
 
