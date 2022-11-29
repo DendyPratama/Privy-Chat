@@ -13,6 +13,14 @@ Install Appium-Python-Client 2.7.1
 
     pip install Appium-Python-Client
     
+Install Pytest
+
+    pip install pytest==6.2.5
+  
+Install Pytest HTML Reporter
+
+     pip install pytest-html-reporter==0.2.9
+    
 List Installed
 
      pip list
