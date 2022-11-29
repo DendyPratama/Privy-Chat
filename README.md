@@ -6,9 +6,6 @@ Requirements for the software and other tools to build, test and push
 - [Download Visual Studio Code](https://code.visualstudio.com/download)
 - [Download Python Supported Versions 3.10.6](https://www.python.org/downloads/release/python-3106/) (Add Python to the PATH Environmental Variable)
 - [Download Appium Client Liblary & Appium Desktop App](https://appium.io/) 
-- [Download Androind SDK & AVD Manager](https://developer.android.com/studio) (Add Python to the PATH Environmental Variable)
-- [Download Java](https://www.oracle.com/java/technologies/downloads/)
-
 
 ## Installing from CMD (Command Prompt)
 
