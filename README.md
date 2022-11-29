@@ -5,7 +5,7 @@
 Requirements for the software and other tools to build, test and push 
 - [Download Visual Studio Code](https://code.visualstudio.com/download)
 - [Download Python Supported Versions 3.10.6](https://www.python.org/downloads/release/python-3106/) (Add Python to the PATH Environmental Variable)
-- [Download Appium Desktop Apps(https://appium.io/downloads.html)
+- [Download Appium Desktop Apps](https://appium.io/downloads.html)
 
 ## Installing from CMD (Command Prompt)
 
