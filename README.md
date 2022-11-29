@@ -5,25 +5,13 @@
 Requirements for the software and other tools to build, test and push 
 - [Download Visual Studio Code](https://code.visualstudio.com/download)
 - [Download Python Supported Versions 3.10.6](https://www.python.org/downloads/release/python-3106/) (Add Python to the PATH Environmental Variable)
-- [Download Appium Desktop Apps & Appium Client Libraries](https://appium.io/downloads.html) (Python) 
+- [Download Appium Desktop Apps(https://appium.io/downloads.html)
 
 ## Installing from CMD (Command Prompt)
 
-Install Selenium 
+Install Appium-Python-Client 2.7.1 
 
-    pip install selenium==4.2.0
-
-Install Pyautogui
-
-    pip install pyautogui==0.9.53
-
-Install Pytest
-
-    pip install pytest==6.2.5
-  
-Install Pytest HTML Reporter
-
-     pip install pytest-html-reporter==0.2.9
+    pip install Appium-Python-Client
     
 List Installed
 
